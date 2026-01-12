@@ -1,0 +1,4 @@
+project_id = "vshtzwayevoqibpskoen"
+
+[functions.stock-data]
+verify_jwt = false
